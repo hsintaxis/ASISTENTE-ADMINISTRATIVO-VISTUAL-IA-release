@@ -1,0 +1,7 @@
+{
+  "repository": "hsintaxis/ASISTENTE-ADMINISTRATIVO-VISTUAL-IA-release",
+  "manifest_url": "https://raw.githubusercontent.com/hsintaxis/ASISTENTE-ADMINISTRATIVO-VISTUAL-IA-release/main/version.json",
+  "asset_name": "AsistenteAdministrativoVirtual_Portable.zip",
+  "client_asset_name": "AsistenteAdministrativoVirtual_Cliente_Listo.zip",
+  "status": "pending_compiled_portable"
+}
